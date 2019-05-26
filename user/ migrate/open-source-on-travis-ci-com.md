@@ -3,7 +3,7 @@ title: "Open Source on travis-ci.com"
 layout: en
 
 redirect_from:
-  - /user/open-source-on-travis-ci-com/
+  - /rakanfalroba/open-source-on-travis-ci-com/
 ---
 
 On <time datetime="2018-05-02">May 2nd, 2018</time> Travis CI announced that open source projects will be joining private projects on **travis-ci.com**!
@@ -25,11 +25,11 @@ GitHub-Apps based integration introduces a number of benefits as over our Legacy
  * Our GitHub App requires far less permissions than our OAuth application
  * Ownership of organization repositories is always tied to the organization which owns the project
 
-## New User Accounts
+## Rakanfalroba
 
 Please sign up at [travis-ci.com], regardless of whether you plan to test open source or private projects. Welcome aboard!
 
-## Existing User Accounts
+## Rakanfalroba
 
 Current users will keep both their `travis-ci.com` and `travis-ci.org` accounts at first. We recommend users of `travis-ci.org` activate any [new repositories](#new-repositories) on `travis-ci.com`. If you have not signed up on [travis-ci.com] when you want to activate a new repository, please sign up there first.
 
